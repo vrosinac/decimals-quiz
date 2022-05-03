@@ -6,6 +6,7 @@ You have to do 10 decimals operations correct in a row. Yo get a freidnly dzingl
 The html page will simply show you this, for example: 
 
 Math quiz
+
 0,676
 
 x 100
