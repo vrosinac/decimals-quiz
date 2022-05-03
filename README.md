@@ -1,4 +1,4 @@
-very basic, but written on the fly to help my daugter get over her preparation for a maths test.
+Very simple javascript code, written on the fly to help my daughter get over her preparation for a maths test.
 You have to do 10 decimals operations correct in a row. Yo get a freidnly dzingle when the result is good , and a blaring trumpet when bad!
 
 
